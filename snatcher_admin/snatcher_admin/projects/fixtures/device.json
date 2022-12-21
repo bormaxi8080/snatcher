@@ -1,0 +1,10 @@
+[
+  {
+    "model": "projects.device",
+    "pk": 1,
+    "fields": {
+      "name": "desktop/mobile-web",
+      "description": ""
+    }
+  }
+]

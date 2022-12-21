@@ -1,0 +1,12 @@
+.DS_Store
+
+*__pycache__*
+
+.idea*
+
+*node_modules*
+*npm-debug.log*
+
+package-lock.json
+
+*profileData*

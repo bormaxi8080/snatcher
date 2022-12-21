@@ -1,0 +1,10 @@
+[
+  {
+    "model": "projects.geo",
+    "pk": 1,
+    "fields": {
+      "name": "Москва и МО",
+      "description": ""
+    }
+  }
+]

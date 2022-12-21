@@ -1,0 +1,10 @@
+[
+  {
+    "model": "projects.placement",
+    "pk": 1,
+    "fields": {
+      "name": "Auditorium Purchases",
+      "description": ""
+    }
+  }
+]

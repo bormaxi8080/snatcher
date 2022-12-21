@@ -1,0 +1,10 @@
+[
+  {
+    "model": "projects.format",
+    "pk": 1,
+    "fields": {
+      "name": "banners",
+      "description": ""
+    }
+  }
+]
