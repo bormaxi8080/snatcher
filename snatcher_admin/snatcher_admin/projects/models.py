@@ -5,6 +5,7 @@ from django.db import models
 
 import uuid
 
+
 # Format Names
 FORMAT_BANNERS = 'banners'
 

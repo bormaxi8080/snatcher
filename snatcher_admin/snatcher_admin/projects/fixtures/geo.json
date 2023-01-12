@@ -6,5 +6,21 @@
       "name": "Москва и МО",
       "description": ""
     }
+  },
+  {
+    "model": "projects.geo",
+    "pk": 2,
+    "fields": {
+      "name": "Санкт-Петербург",
+      "description": ""
+    }
+  },
+  {
+    "model": "projects.geo",
+    "pk": 3,
+    "fields": {
+      "name": "Нижний Новгород",
+      "description": ""
+    }
   }
 ]
