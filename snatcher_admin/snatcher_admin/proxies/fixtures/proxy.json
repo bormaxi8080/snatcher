@@ -1,0 +1,392 @@
+[
+  {
+    "model": "proxies.proxy",
+    "pk": 1,
+    "fields": {
+      "address": "http://EpeZxTF7GT:NaQGDaeWzepWpnsVeFuj@128.0.142.245:5080",
+      "description": "",
+      "proxy_type": 1,
+      "enabled": true
+    }
+  },
+  {
+    "model": "proxies.proxy",
+    "pk": 2,
+    "fields": {
+      "address": "http://EpeZxTF7GT:NaQGDaeWzepWpnsVeFuj@128.0.142.245:5081",
+      "description": "",
+      "proxy_type": 1,
+      "enabled": true
+    }
+  },
+  {
+    "model": "proxies.proxy",
+    "pk": 3,
+    "fields": {
+      "address": "http://EpeZxTF7GT:NaQGDaeWzepWpnsVeFuj@128.0.142.245:5082",
+      "description": "",
+      "proxy_type": 1,
+      "enabled": true
+    }
+  },
+  {
+    "model": "proxies.proxy",
+    "pk": 4,
+    "fields": {
+      "address": "http://EpeZxTF7GT:NaQGDaeWzepWpnsVeFuj@128.0.142.245:5084",
+      "description": "",
+      "proxy_type": 1,
+      "enabled": true
+    }
+  },
+  {
+    "model": "proxies.proxy",
+    "pk": 5,
+    "fields": {
+      "address": "http://EpeZxTF7GT:NaQGDaeWzepWpnsVeFuj@128.0.142.245:5085",
+      "description": "",
+      "proxy_type": 1,
+      "enabled": true
+    }
+  },
+  {
+    "model": "proxies.proxy",
+    "pk": 6,
+    "fields": {
+      "address": "http://EpeZxTF7GT:NaQGDaeWzepWpnsVeFuj@128.0.142.245:5086",
+      "description": "",
+      "proxy_type": 1,
+      "enabled": true
+    }
+  },
+  {
+    "model": "proxies.proxy",
+    "pk": 7,
+    "fields": {
+      "address": "http://EpeZxTF7GT:NaQGDaeWzepWpnsVeFuj@128.0.142.245:5087",
+      "description": "",
+      "proxy_type": 1,
+      "enabled": true
+    }
+  },
+  {
+    "model": "proxies.proxy",
+    "pk": 8,
+    "fields": {
+      "address": "http://EpeZxTF7GT:NaQGDaeWzepWpnsVeFuj@128.0.142.245:5088",
+      "description": "",
+      "proxy_type": 1,
+      "enabled": true
+    }
+  },
+  {
+    "model": "proxies.proxy",
+    "pk": 9,
+    "fields": {
+      "address": "http://EpeZxTF7GT:NaQGDaeWzepWpnsVeFuj@128.0.142.245:5089",
+      "description": "",
+      "proxy_type": 1,
+      "enabled": true
+    }
+  },
+  {
+    "model": "proxies.proxy",
+    "pk": 10,
+    "fields": {
+      "address": "http://EpeZxTF7GT:NaQGDaeWzepWpnsVeFuj@128.0.142.245:5090",
+      "description": "",
+      "proxy_type": 1,
+      "enabled": true
+    }
+  },
+  {
+    "model": "proxies.proxy",
+    "pk": 11,
+    "fields": {
+      "address": "http://EpeZxTF7GT:NaQGDaeWzepWpnsVeFuj@128.0.142.245:5091",
+      "description": "",
+      "proxy_type": 1,
+      "enabled": true
+    }
+  },
+  {
+    "model": "proxies.proxy",
+    "pk": 12,
+    "fields": {
+      "address": "http://EpeZxTF7GT:NaQGDaeWzepWpnsVeFuj@128.0.142.245:5092",
+      "description": "",
+      "proxy_type": 1,
+      "enabled": true
+    }
+  },
+  {
+    "model": "proxies.proxy",
+    "pk": 13,
+    "fields": {
+      "address": "http://EpeZxTF7GT:NaQGDaeWzepWpnsVeFuj@128.0.142.245:5093",
+      "description": "",
+      "proxy_type": 1,
+      "enabled": true
+    }
+  },
+  {
+    "model": "proxies.proxy",
+    "pk": 14,
+    "fields": {
+      "address": "http://EpeZxTF7GT:NaQGDaeWzepWpnsVeFuj@128.0.142.245:5094",
+      "description": "",
+      "proxy_type": 1,
+      "enabled": true
+    }
+  },
+  {
+    "model": "proxies.proxy",
+    "pk": 15,
+    "fields": {
+      "address": "http://EpeZxTF7GT:NaQGDaeWzepWpnsVeFuj@128.0.142.245:5095",
+      "description": "",
+      "proxy_type": 1,
+      "enabled": true
+    }
+  },
+  {
+    "model": "proxies.proxy",
+    "pk": 16,
+    "fields": {
+      "address": "http://EpeZxTF7GT:NaQGDaeWzepWpnsVeFuj@128.0.142.245:5096",
+      "description": "",
+      "proxy_type": 1,
+      "enabled": true
+    }
+  },
+  {
+    "model": "proxies.proxy",
+    "pk": 17,
+    "fields": {
+      "address": "http://EpeZxTF7GT:NaQGDaeWzepWpnsVeFuj@128.0.142.245:5097",
+      "description": "",
+      "proxy_type": 1,
+      "enabled": true
+    }
+  },
+  {
+    "model": "proxies.proxy",
+    "pk": 18,
+    "fields": {
+      "address": "http://EpeZxTF7GT:NaQGDaeWzepWpnsVeFuj@128.0.142.245:5098",
+      "description": "",
+      "proxy_type": 1,
+      "enabled": true
+    }
+  },
+  {
+    "model": "proxies.proxy",
+    "pk": 19,
+    "fields": {
+      "address": "http://EpeZxTF7GT:NaQGDaeWzepWpnsVeFuj@128.0.142.245:5099",
+      "description": "",
+      "proxy_type": 1,
+      "enabled": true
+    }
+  },
+  {
+    "model": "proxies.proxy",
+    "pk": 21,
+    "fields": {
+      "address": "http://zcLUrFDdTw:8zKuMTZcK9a7MrGsZF22@128.0.142.245:5181",
+      "description": "",
+      "proxy_type": 1,
+      "enabled": true
+    }
+  },
+  {
+    "model": "proxies.proxy",
+    "pk": 22,
+    "fields": {
+      "address": "http://zcLUrFDdTw:8zKuMTZcK9a7MrGsZF22@128.0.142.245:5182",
+      "description": "",
+      "proxy_type": 1,
+      "enabled": true
+    }
+  },
+  {
+    "model": "proxies.proxy",
+    "pk": 23,
+    "fields": {
+      "address": "http://zcLUrFDdTw:8zKuMTZcK9a7MrGsZF22@128.0.142.245:5183",
+      "description": "",
+      "proxy_type": 1,
+      "enabled": true
+    }
+  },
+  {
+    "model": "proxies.proxy",
+    "pk": 24,
+    "fields": {
+      "address": "http://zcLUrFDdTw:8zKuMTZcK9a7MrGsZF22@128.0.142.245:5184",
+      "description": "",
+      "proxy_type": 1,
+      "enabled": true
+    }
+  },
+  {
+    "model": "proxies.proxy",
+    "pk": 25,
+    "fields": {
+      "address": "http://zcLUrFDdTw:8zKuMTZcK9a7MrGsZF22@128.0.142.245:5185",
+      "description": "",
+      "proxy_type": 1,
+      "enabled": true
+    }
+  },
+  {
+    "model": "proxies.proxy",
+    "pk": 26,
+    "fields": {
+      "address": "http://zcLUrFDdTw:8zKuMTZcK9a7MrGsZF22@128.0.142.245:5186",
+      "description": "",
+      "proxy_type": 1,
+      "enabled": true
+    }
+  },
+  {
+    "model": "proxies.proxy",
+    "pk": 27,
+    "fields": {
+      "address": "http://zcLUrFDdTw:8zKuMTZcK9a7MrGsZF22@128.0.142.245:5187",
+      "description": "",
+      "proxy_type": 1,
+      "enabled": true
+    }
+  },
+  {
+    "model": "proxies.proxy",
+    "pk": 28,
+    "fields": {
+      "address": "http://zcLUrFDdTw:8zKuMTZcK9a7MrGsZF22@128.0.142.245:5188",
+      "description": "",
+      "proxy_type": 1,
+      "enabled": true
+    }
+  },
+  {
+    "model": "proxies.proxy",
+    "pk": 29,
+    "fields": {
+      "address": "http://zcLUrFDdTw:8zKuMTZcK9a7MrGsZF22@128.0.142.245:5189",
+      "description": "",
+      "proxy_type": 1,
+      "enabled": true
+    }
+  },
+  {
+    "model": "proxies.proxy",
+    "pk": 30,
+    "fields": {
+      "address": "http://zcLUrFDdTw:8zKuMTZcK9a7MrGsZF22@128.0.142.245:5190",
+      "description": "",
+      "proxy_type": 1,
+      "enabled": true
+    }
+  },
+  {
+    "model": "proxies.proxy",
+    "pk": 31,
+    "fields": {
+      "address": "http://zcLUrFDdTw:8zKuMTZcK9a7MrGsZF22@128.0.142.245:5191",
+      "description": "",
+      "proxy_type": 1,
+      "enabled": true
+    }
+  },
+  {
+    "model": "proxies.proxy",
+    "pk": 32,
+    "fields": {
+      "address": "http://zcLUrFDdTw:8zKuMTZcK9a7MrGsZF22@128.0.142.245:5192",
+      "description": "",
+      "proxy_type": 1,
+      "enabled": true
+    }
+  },
+  {
+    "model": "proxies.proxy",
+    "pk": 33,
+    "fields": {
+      "address": "http://zcLUrFDdTw:8zKuMTZcK9a7MrGsZF22@128.0.142.245:5193",
+      "description": "",
+      "proxy_type": 1,
+      "enabled": true
+    }
+  },
+  {
+    "model": "proxies.proxy",
+    "pk": 34,
+    "fields": {
+      "address": "http://zcLUrFDdTw:8zKuMTZcK9a7MrGsZF22@128.0.142.245:5194",
+      "description": "",
+      "proxy_type": 1,
+      "enabled": true
+    }
+  },
+  {
+    "model": "proxies.proxy",
+    "pk": 35,
+    "fields": {
+      "address": "http://zcLUrFDdTw:8zKuMTZcK9a7MrGsZF22@128.0.142.245:5195",
+      "description": "",
+      "proxy_type": 1,
+      "enabled": true
+    }
+  },
+  {
+    "model": "proxies.proxy",
+    "pk": 36,
+    "fields": {
+      "address": "http://zcLUrFDdTw:8zKuMTZcK9a7MrGsZF22@128.0.142.245:5196",
+      "description": "",
+      "proxy_type": 1,
+      "enabled": true
+    }
+  },
+  {
+    "model": "proxies.proxy",
+    "pk": 37,
+    "fields": {
+      "address": "http://zcLUrFDdTw:8zKuMTZcK9a7MrGsZF22@128.0.142.245:5197",
+      "description": "",
+      "proxy_type": 1,
+      "enabled": true
+    }
+  },
+  {
+    "model": "proxies.proxy",
+    "pk": 38,
+    "fields": {
+      "address": "http://zcLUrFDdTw:8zKuMTZcK9a7MrGsZF22@128.0.142.245:5198",
+      "description": "",
+      "proxy_type": 1,
+      "enabled": true
+    }
+  },
+  {
+    "model": "proxies.proxy",
+    "pk": 39,
+    "fields": {
+      "address": "http://zcLUrFDdTw:8zKuMTZcK9a7MrGsZF22@128.0.142.245:5199",
+      "description": "",
+      "proxy_type": 1,
+      "enabled": true
+    }
+  },
+  {
+    "model": "proxies.proxy",
+    "pk": 40,
+    "fields": {
+      "address": "http://zcLUrFDdTw:8zKuMTZcK9a7MrGsZF22@128.0.142.245:5200",
+      "description": "",
+      "proxy_type": 1,
+      "enabled": true
+    }
+  }
+]
