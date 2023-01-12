@@ -34,7 +34,7 @@ class ProxyTypeHelper(object):
 
 class Proxy(models.Model):
     address = models.CharField(max_length=255, null=False)
-    description = models.TextField(null=True)
+    description = models.TextField(null=True, blank=True)
     proxy_type = models.IntegerField(choices=PROXY_TYPE_CHOICES, null=False, default=1)
     enabled = models.BooleanField(null=False, default=True)
     created_at = models.DateTimeField(auto_now_add=True, auto_now=False, null=True)
