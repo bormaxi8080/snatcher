@@ -31,15 +31,17 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
-    'accounts.apps.AccountsConfig',
-    'proxies.apps.ProxiesConfig',
-    'projects.apps.ProjectsConfig',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'django_celery_beat',
+    'celery',
+    'accounts.apps.AccountsConfig',
+    'proxies.apps.ProxiesConfig',
+    'projects.apps.ProjectsConfig',
 ]
 
 MIDDLEWARE = [
@@ -87,6 +89,33 @@ DATABASES = {
     }
 }
 
+# Celery settings
+CELERY_BROKER_URL = 'amqp://guest:guest@localhost:5672/'
+CELERY_BROKER_HOST = 'localhost'
+CELERY_BROKER_PORT = 5672
+CELERY_BROKER_USER = 'guest'
+CELERY_BROKER_PASSWORD = 'guest'
+
+CELERY_RESULT_BACKEND = 'db+sqlite:///results.db'
+CELERY_ACCEPT_CONTENT = ['application/json']
+CELERY_TASK_SERIALIZER = 'json'
+CELERY_RESULT_SERIALIZER = 'json'
+CELERY_TIMEZONE = 'UTC'
+
+CELERY_TASK_RESULT_EXPIRES = 18000  # 5 hours
+
+CELERY_BEAT_SCHEDULER = 'django_celery_beat.schedulers:DatabaseScheduler'
+
+# Worker settings
+CELERYD_CONCURRENCY = 1
+CELERYD_TASK_TIME_LIMIT = 20
+CELERYD_LOG_FILE = 'celeryd.log'
+CELERYD_LOG_LEVEL = 'INFO'
+
+# Broker Queues and Routing Keys
+
+QUEUE_ACTIVE_TASKS = 'snatcher.tasks'
+ROUNTING_KEY_ACTIVE_TASKS = 'snatcher.tasks'
 
 # Password validation
 # https://docs.djangoproject.com/en/4.1/ref/settings/#auth-password-validators
